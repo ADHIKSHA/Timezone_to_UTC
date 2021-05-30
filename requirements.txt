@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 click==8.0.1
 colorama==0.4.4
 dataclasses==0.8
@@ -10,3 +11,17 @@ pytz==2021.1
 typing-extensions==3.10.0.0
 Werkzeug==2.0.1
 zipp==3.4.1
+=======
+click==8.0.1
+colorama==0.4.4
+dataclasses==0.8
+Flask==2.0.1
+importlib-metadata==4.3.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+pytz==2021.1
+typing-extensions==3.10.0.0
+Werkzeug==2.0.1
+zipp==3.4.1
+>>>>>>> 819fb48b8f20d44ee472042c9bb8f0095df6e9b3
